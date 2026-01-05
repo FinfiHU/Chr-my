@@ -31,8 +31,8 @@ const BASE_URL = "https://vercel.com/finfihus-projects/chr-my";
 const settings = {
     send_support_message: true,
     send_attack_message: true,
-    discord_support_hook: "[Discord Webhook URL here]",
-    discord_attack_hook: "[Discord Webhook URL here]",
+    discord_support_hook: "https://discord.com/api/webhooks/1457824436433715322/5rwnFnxZJSkyl86llEbKhGooqQLof8gM8uAGYyeeZzxfE6qZ6JjaiI5R2bjTJCDGeU-n",
+    discord_attack_hook: "https://discord.com/api/webhooks/1457824436433715322/5rwnFnxZJSkyl86llEbKhGooqQLof8gM8uAGYyeeZzxfE6qZ6JjaiI5R2bjTJCDGeU-n",
     monitor_timeout: 60000,
 };
 
